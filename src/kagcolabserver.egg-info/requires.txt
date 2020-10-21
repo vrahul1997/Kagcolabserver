@@ -1,0 +1,2 @@
+pyngrok>=4.1.12
+kaggle>=1.5.7

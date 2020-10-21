@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+requirement.txt
+setup.py
+src/__init__.py
+src/kagcolabserver.py
+src/kagcolabserver.egg-info/PKG-INFO
+src/kagcolabserver.egg-info/SOURCES.txt
+src/kagcolabserver.egg-info/dependency_links.txt
+src/kagcolabserver.egg-info/requires.txt
+src/kagcolabserver.egg-info/top_level.txt
